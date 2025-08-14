@@ -22,8 +22,9 @@ and MoodMatch will interpret your input and return a short list of films that re
 --- to be updated --- 
 - summmary -
 - challenges - 
-- features -
-##Built with 
+- features
+
+## Built with:
 > Python 3,
 > TMBD API,
 > Hugging Face Transformers (sentence-transformers/all-MiniLM-L6-v2),
