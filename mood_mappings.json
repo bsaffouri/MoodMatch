@@ -1,0 +1,42 @@
+{
+    "scarefest": {
+        "genres": [27],
+        "keywords": ["horror", "terror", "fear"]
+    },
+    "mother daughter relationships are hard to navigate": {
+        "genres": [10751],
+        "keywords": ["family", "mother-daughter", "bond", "relationship"]
+    },
+    "3 am feeling melancholic and sentimental": {
+        "genres": [18],
+        "keywords": ["melancholy", "sentimental", "lonely", "reflective"]
+    },
+    "you just finished your first year of college": {
+        "genres": [18],
+        "keywords": ["college", "young adult", "coming-of-age", "transition"]
+    },
+    "its the night before christmas and youre feeling nostalgic": {
+        "genres": [10402, 10751],
+        "keywords": ["christmas", "nostalgia", "holiday", "warmth"]
+    },
+    "Home no Longer Feels like Home": {
+        "genres":[18],
+        "keywords": ["loss", "displacement", "family", "reflection"]
+    },
+    "friendship breakups are hard": {
+        "genres":[18],
+        "keywords": ["friendship", "breakup", "heartache"]
+    },
+    "I wonder what the world will look like in 20 years…": {
+        "genres":[878, 28],
+        "keywords": ["future", "sci-fi", "speculation", "dystopia"]
+    },
+    "Watch this instead of doomscrolling": {
+        "genres":[99],
+        "keywords": ["documentary", "uplifting", "inspiration", "informative"]
+    },
+    "taking it day by day":{
+        "genres":[35],
+        "keywords": ["comedy", "lighthearted", "relaxing", "daily life"]
+    }      
+}
