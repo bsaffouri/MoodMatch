@@ -23,10 +23,10 @@ and MoodMatch will interpret your input and return a short list of films that re
 - summmary -
 - challenges - 
 - features -
-- built with 
-> Python 3
-> TMBD API
-> Hugging Face Transformers (sentence-transformers/all-MiniLM-L6-v2)
-> Pytorch for embeddings and cosin similarity
+##Built with 
+> Python 3,
+> TMBD API,
+> Hugging Face Transformers (sentence-transformers/all-MiniLM-L6-v2),
+> Pytorch for embeddings and cosin similarity,
 > Developed with VSCode 
 
