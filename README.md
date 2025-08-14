@@ -13,16 +13,20 @@ What makes MoodMatch different is its focus on very specific and sometimes niche
 and MoodMatch will interpret your input and return a short list of films that reflect those emotions and themes. 
 
 ## Next steps:
-- Improve and expand mood mappings to be more accuate
-- Add keyword matching
+- Improve and expand mood mappings 
+- Refine keywords for better results 
 - Build UI
+- Add features like movie posters and rating
+- Additional NLP techs for better understanding of mood 
 
 --- to be updated --- 
 - summmary -
-- challenges -
+- challenges - 
 - features -
 - built with 
 > Python 3
 > TMBD API
+> Hugging Face Transformers (sentence-transformers/all-MiniLM-L6-v2)
+> Pytorch for embeddings and cosin similarity
 > Developed with VSCode 
 
